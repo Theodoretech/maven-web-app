@@ -26,7 +26,9 @@ node{
     input message: 'Application ready for deployment, Please review and approve'
       }
   }
- 
+  stage('7deploy2Prod'){}
+  stage('8emailNotification'){}
+
 }
 
 
