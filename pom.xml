@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>land-web-app</finalName>
+		<finalName>test</finalName>
 		
 		<plugins>
 			<plugin>
