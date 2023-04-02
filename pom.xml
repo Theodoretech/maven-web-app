@@ -95,14 +95,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>tesla-release</name>
-	      <url>http://http://54.197.39.127:8081/repository/paypal-snapshots/</url>
+	      <name>papal-release</name>
+	      <url>http://54.197.39.127:8081/repository/paypal-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>tesla-snapshots</name>
-	      <url>http://http://54.197.39.127:8081/repository/paypal-snapshots/</url>
+	      <name>paypal-snapshots</name>
+	      <url>http://54.197.39.127:8081/repository/paypal-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
