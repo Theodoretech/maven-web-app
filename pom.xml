@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>land-web-app</finalName>
+		<finalName>paypal</finalName>
 		
 		<plugins>
 			<plugin>
